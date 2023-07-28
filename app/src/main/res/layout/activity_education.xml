@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EducationActivity"
+    android:padding="24dp"
+    android:orientation="vertical"
+    android:layout_marginTop="50dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Education"
+        android:textColor="#000000"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="8dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bachelor of Science in Information"
+        android:textColor="#333333"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="2dp"
+        android:layout_gravity="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Technology"
+        android:textColor="#333333"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="4dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bengal College of Engineering &amp; Technology"
+        android:textColor="#333333"
+        android:textSize="15dp"
+        android:layout_marginBottom="8dp"
+        android:layout_gravity="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Graduated in 2021"
+        android:textColor="#333333"
+        android:textSize="14sp"
+        android:layout_marginBottom="16dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Class 12"
+        android:textColor="#333333"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="4dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="St Michael's School"
+        android:textColor="#333333"
+        android:textSize="15dp"
+        android:layout_marginBottom="8dp"
+        android:layout_gravity="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2017 Passout"
+        android:textColor="#333333"
+        android:textSize="14sp"
+        android:layout_marginBottom="16dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Class 10"
+        android:textColor="#333333"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="4dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="St Michael's School"
+        android:textColor="#333333"
+        android:textSize="15dp"
+        android:layout_marginBottom="8dp"
+        android:layout_gravity="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2015 Passout"
+        android:textColor="#333333"
+        android:textSize="14sp"
+        android:layout_marginBottom="16dp"
+        android:layout_gravity="center"/>
+
+
+</LinearLayout>
